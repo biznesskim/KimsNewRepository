@@ -1,1 +1,3 @@
 # MyGitTestRepository
+# KimsNewRepository
+# KimsNewRepository
